@@ -8,7 +8,7 @@ A website for a company that offers Search Engine Optimization, Online Reputatio
 * CSS
 
 ## Website Link
-[Horiseon] (https://marksherm04.github.io/horiseon/ "Horiseon Home")
+[Horiseon](https://marksherm04.github.io/horiseon/ "Horiseon Home")
 
 ## Sreenshot of Page
 
