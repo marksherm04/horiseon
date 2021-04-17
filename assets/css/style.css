@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*applies styles to <header> */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,7 +39,7 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
+}/* end <header> section */
 
 a {
     color: #ffffff;
@@ -50,6 +50,8 @@ p {
     font-size: 16px;
 }
 
+
+/* start hero section */
 .hero {
     height: 800px;
     width: 100%;
@@ -163,14 +165,20 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
+    float: left;
+    margin-right: 20px;
 }
 
 .online-reputation-management img {
     max-height: 200px;
+    float: right;
+    margin-left: 8px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
+    float: left;
+    margin-right: 20px;
 }
 
 .search-engine-optimization h2 {
