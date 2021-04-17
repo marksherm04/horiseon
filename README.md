@@ -18,9 +18,14 @@ Made with ❤ by Horiseon. Edited with ❤️ by Mark Sherman
 
 ### ©️2019 Horiseon Social Solutions Services, Inc.
 
+#Explaination of changes
 
 ### Changed <title> from “title” to “Horiseon” for SEO
 
-# Changed <div> in <header> to <nav class=> and <div> to <nav> which enclosed the <ul>
+### Changed <div> in <header> to <nav class=> and <div> to <nav> which enclosed the <ul>
 
-# Updated style.css to reflect these changed from <div> to <nav> for the <header>
+### Updated style.css to reflect these changed from <div> to <nav> for the <header>
+  
+### Added "alt" attributes to all <img>
+
+
