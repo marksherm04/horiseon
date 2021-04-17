@@ -20,7 +20,7 @@ Made with ❤ by Horiseon. Edited with ❤️ by Mark Sherman
 
 #Explaination of changes
 
-### Changed <title> from “title” to “Horiseon” for SEO
+### Changed <title> from “title” to “Horiseon - Search Engine Optimization, Online Reputation Management, & Social Media Marketing" for more SEO exposure
 
 ### Changed <div> in <header> to <nav class=> and <div> to <nav> which enclosed the <ul>
 
