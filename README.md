@@ -20,12 +20,12 @@ Made with ❤ by Horiseon. Edited with ❤️ by Mark Sherman
 
 # Explaination of Changes
 
-#### Changed <title> from “title” to “Horiseon - Search Engine Optimization, Online Reputation Management, & Social Media Marketing" for more SEO exposure
+#### Changed title from “title” to “Horiseon - Search Engine Optimization, Online Reputation Management, & Social Media Marketing" for more SEO exposure
 
-#### Changed <div> in <header> to <nav class=> and <div> to <nav> which enclosed the <ul>
+#### Changed "div" in "header" to "nav class" and "div" to "nav" which enclosed the "ul"
 
-#### Updated style.css to reflect these changed from <div> to <nav> for the <header>
+#### Updated style.css to reflect these changed from "div" to "nav" for the "header"
   
-#### Added "alt" attributes to all <img>
+#### Added "alt" attributes to all "img
 
 
