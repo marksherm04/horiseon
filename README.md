@@ -8,7 +8,7 @@ A website for a company that offers Search Engine Optimization, Online Reputatio
 * CSS
 
 ## Website Link
-https://marksherm04.github.io/horiseon/
+[Horiseon] (https://marksherm04.github.io/horiseon/ "Horiseon Home")
 
 ## Sreenshot of Page
 
@@ -20,12 +20,12 @@ Made with ❤ by Horiseon. Edited with ❤️ by Mark Sherman
 
 # Explaination of Changes
 
-*Changed <title> from “title” to “Horiseon - Search Engine Optimization, Online Reputation Management, & Social Media Marketing" for more SEO exposure
+#### Changed <title> from “title” to “Horiseon - Search Engine Optimization, Online Reputation Management, & Social Media Marketing" for more SEO exposure
 
-*Changed <div> in <header> to <nav class=> and <div> to <nav> which enclosed the <ul>
+#### Changed <div> in <header> to <nav class=> and <div> to <nav> which enclosed the <ul>
 
-*Updated style.css to reflect these changed from <div> to <nav> for the <header>
+#### Updated style.css to reflect these changed from <div> to <nav> for the <header>
   
-*Added "alt" attributes to all <img>
+#### Added "alt" attributes to all <img>
 
 
