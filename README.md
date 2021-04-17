@@ -19,7 +19,7 @@ Made with ❤ by Horiseon. Edited with ❤️ by Mark Sherman
 ### ©️2019 Horiseon Social Solutions Services, Inc.
 
 
-# Changed <title> from “title” to “Horiseon” for SEO
+### Changed <title> from “title” to “Horiseon” for SEO
 
 # Changed <div> in <header> to <nav class=> and <div> to <nav> which enclosed the <ul>
 
