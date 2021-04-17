@@ -34,4 +34,6 @@ Made with ❤ by Horiseon. Edited with ❤️ by Mark Sherman
 
 #### Took out "class=float-left/right" in html and added "float:right/left" to style sheet, also added "margin left/right" to the images to make them properly spaced out  - removed the float left and right tags in css that were standing alone
 
+#### Changed out "div" tags in the Lead Gen, Brand Awareness, and Cost Mangement section and added "section" and "article" tags to label the section better
+
 
