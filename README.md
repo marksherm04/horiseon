@@ -25,7 +25,13 @@ Made with ❤ by Horiseon. Edited with ❤️ by Mark Sherman
 #### Changed "div" in "header" to "nav class" and "div" to "nav" which enclosed the "ul"
 
 #### Updated style.css to reflect these changed from "div" to "nav" for the "header"
-  
+
+#### Added "main" tags under the "header/hero section"
+
+#### Changed "div class" to "section class"
+
 #### Added "alt" attributes to all "img
+
+#### Took out "class=float-left/right" in html and added "float:right/left" to style sheet, also added "margin left/right" to the images to make them properly spaced out
 
 
