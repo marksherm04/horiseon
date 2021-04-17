@@ -32,6 +32,6 @@ Made with ❤ by Horiseon. Edited with ❤️ by Mark Sherman
 
 #### Added "alt" attributes to all "img
 
-#### Took out "class=float-left/right" in html and added "float:right/left" to style sheet, also added "margin left/right" to the images to make them properly spaced out
+#### Took out "class=float-left/right" in html and added "float:right/left" to style sheet, also added "margin left/right" to the images to make them properly spaced out  - removed the float left and right tags in css that were standing alone
 
 
