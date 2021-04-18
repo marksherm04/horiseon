@@ -67,7 +67,7 @@ p {
     margin-left: 20px;
 }
 
-/*combined all like tags with their associated styles*/
+/* combined all like tags with their associated styles */
 
 .search-engine-optimization,
 .online-reputation-management,
@@ -87,6 +87,7 @@ p {
     font-size: 36px;
 }
 
+/* image stylying */
 .search-engine-optimization img {
     max-height: 200px;
     float:left;
@@ -104,7 +105,9 @@ p {
     float: left;
     margin-right: 35px;
 }
+/* end image styling */
 
+/* lead gen, brand awareness, cost management styling section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -137,7 +140,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* end lead gen, brand awareness, cost management section */
 
 /* footer styling */
 .footer {
