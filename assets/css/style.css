@@ -28,7 +28,7 @@ body {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -67,6 +67,44 @@ p {
     margin-left: 20px;
 }
 
+/*combined all like tags with their associated styles*/
+
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri' 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization h2,
+.online-reputation-management h2 ,
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.search-engine-optimization img {
+    max-height: 200px;
+    float:left;
+    margin-right: 35px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+    float: right;
+    margin-left: 35px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+    float: left;
+    margin-right: 35px;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -74,10 +112,10 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*combined all like tags with their associated styles*/
+
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -100,31 +138,6 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img {
-    max-height: 200px;
-    float: left;
-    margin-right: 20px;
-}
-
-.search-engine-optimization h2,
-.online-reputation-management h2 ,
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /* footer styling */
 .footer {
