@@ -29,12 +29,14 @@ Made with ❤ by Horiseon. Edited with ❤️ by Mark Sherman
 
 #### Added "main" tags under the "header/hero section"
 
-#### Changed "div class" to "section class"
+#### Changed "div class" to "section class" in both sections - SEO and Benefits sections
 
-#### Added "alt" attributes to all "img
+#### Changed "div class to "article class" in both sections - SEO and Benefits sections
 
-#### Took out "class=float-left/right" in html and added "float:right/left" to style sheet, also added "margin left/right" to the images to make them properly spaced out  - removed the float left and right tags in css that were standing alone
+#### Added "alt" attributes to all "img"
+
+#### Took out "class=float-left/right" in html and added "float:right/left" images to style sheet, also added "margin left/right" to the images to make them properly spaced out  - removed the float left and right tags in css that were standing alone
 
 #### Changed out "div" tags in the Lead Gen, Brand Awareness, and Cost Mangement section and added "section" and "article" tags to label the section better
 
-
+#### Website is now ready to add branch pages and add Javascript
