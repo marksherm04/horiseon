@@ -12,7 +12,7 @@ A website for a company that offers Search Engine Optimization, Online Reputatio
 
 ## Sreenshot of Page
 
-![Screenshot](screenshots/horiseonscreenshot.png "Website screenshot")
+![Screenshot](screenshots/screenshot.png "Website screenshot")
 
 ## Contributions
 Made with ❤ by Horiseon. Edited with ❤️ by Mark Sherman
